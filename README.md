@@ -62,44 +62,11 @@ El software que será necesario instalar para esta parte del curso se lista a co
 
 ### Hardware
 
-https://es.wikipedia.org/wiki/ESP8266
-https://naylampmechatronics.com/blog/56_usando-esp8266-con-el-ide-de-arduino.html
-https://www.linux.com/news/linux-and-open-source-hardware-iot/
-https://bbs.espressif.com/index.php?sid=fbb4464164083b18aac64cbf82fd8aef
-
-https://www.espressif.com/en/products/socs/esp8266ex/resources
-https://bbs.espressif.com/viewforum.php?f=67
-https://www.espressif.com/sites/default/files/documentation/2a-esp8266-sdk_getting_started_guide_en.pdf
-https://www.espressif.com/sites/default/files/documentation/esp8266_quick_start_guide_en.pdf
-https://bbs.espressif.com/viewforum.php?f=31
-https://github.com/Espressif
-https://en.wikipedia.org/wiki/ESP8266
-
-https://github.com/esp8266/Arduino
-
-
----
-
-https://wiki.seeedstudio.com/Grove_Base_Shield_for_NodeMCU_V1.0/
-
-Arduino UNO
-Arduino DUE
-XBee S2
-XBee explorer USB
-XBee shield
-https://www.elegoo.com/products/elegoo-37-in-1-sensor-kit
-
-https://www.elegoo.com/products/elegoo-37-in-1-sensor-kit
-
-http://spot.pcc.edu/~dgoldman/labs/37SENSORKIT.pdf
-https://www.youtube.com/user/fritzingpcb/videos
-
 
 
 ## Referencias
 
 1. https://upcommons.upc.edu/bitstream/handle/2117/100921/LM08_R_ES.pdf
 2. https://redesmoviles.com/iot/arquitecturas-iot/
-3. 
+   
 
-Detalles de la actividad de laboratorio 1.
