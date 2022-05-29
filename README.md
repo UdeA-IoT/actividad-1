@@ -9,7 +9,7 @@
 
 Dentro de la arquitectura IoT se concibe como una arquitectura de 3 capas: percepción, red y aplicación. 
 
-![iot_architecture](IOT-layers.png)
+![iot_architecture](IoT-layers.png)
 
 Tal y como en la grafica anterior, la capa de percepción hace referencia a aquella capa de la arquitectura encargada de interactuar con el medio. Luego, a medida que avance el curso, veremos mas sobre esta. Por ahora, nuestro objetivo consistirá en determinar el software y hardware que se requeriran para la parte del curso que involucra esta capa.  
 
